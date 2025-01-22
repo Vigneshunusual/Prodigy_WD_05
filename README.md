@@ -25,4 +25,4 @@ This is a simple weather application that allows users to check real-time weathe
 
 ## Live Demo
 Check out the live version of the app here:  
-👉 [https://weatherapiclimate.netlify.app/]
+[Click here to check the weather! 🌍](https://weatherapiclimate.netlify.app/)
